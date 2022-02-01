@@ -1,3 +1,3 @@
 print("Hello, World!")
 
-print ("jenkins just work ")
+print ("jenkins error ")
