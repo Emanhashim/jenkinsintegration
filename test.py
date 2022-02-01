@@ -1,2 +1,2 @@
 print("i love software")
-print("i love sw")
+print("i love ethiopia")
